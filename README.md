@@ -1,5 +1,7 @@
 # 💫 About Me:
-  ### Hi there 👋 I'm Vigneshwaran K<br><br>🚀 Junior Full Stack Developer | Passionate Front-End Specialist<br><br>I'm currently working on a **Travel CRM** product at a startup, where I build responsive, scalable, and real-time web interfaces using **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. I'm constantly learning and pushing boundaries and **Three.js** to create interactive user experiences.<br><br>---<br><br>### 🛠️ Tech Stack<br><br>- **Languages:** JavaScript, TypeScript, SQL<br>- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3, <br>- **Backend:** Node.js, Express.js, PostgreSQL, Supabase<br>- **Tools:** Git, GitHub, VSCode, Postman, Prisma,
+  ### Hi there 👋 I'm Vigneshwaran K<br><br>🚀 Junior Full Stack Developer | Passionate Front-End Specialist<br><br>I'm passionate about building modern, responsive, and user-centric web applications with a strong focus on clean UI and smooth user experiences.
+
+Currently, I'm working on a Travel CRM product at a startup, where I develop scalable and real-time interfaces using modern frontend technologies. I enjoy combining development with design thinking to create visually engaging digital products..<br><br>---<br><br>### 🛠️ Tech Stack<br><br>- **Languages:** JavaScript, TypeScript, SQL<br>- **Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3, <br>- **Backend:** Node.js, Express.js, PostgreSQL, Supabase<br>- **Tools:** Git, GitHub, VSCode, Postman, Prisma,
 
 
 ## 🌐 Socials:
